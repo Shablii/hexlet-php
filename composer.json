@@ -1,0 +1,10 @@
+{
+    "name": "mef4ik/hexlet-php",
+    "authors": [
+        {
+            "name": "Vadim Shablii",
+            "email": "mefistovad@gmail.com"
+        }
+    ],
+    "require": {}
+}
